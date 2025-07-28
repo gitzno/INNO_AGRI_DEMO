@@ -1,0 +1,1 @@
+import{_ as o,f as s,h as t,o as a}from"./index-BDGi_wsQ.js";const n={},r={class:"about"};function c(_,e){return a(),s("div",r,e[0]||(e[0]=[t("h1",null,"This is an about page",-1)]))}const f=o(n,[["render",c]]);export{f as default};
